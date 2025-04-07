@@ -1,7 +1,7 @@
 # Amazon_clone_project
 Amazon Homepage Clone built with Html and CSS. My academic web development Project using html css.
 # Features
-- Interactive elements such as hover effects .
+- Interactive elements such as hover effects and Utilization of flexbox to create a responsive and flexible layout.
 - Accurate representation of Amazon's homepage layout and design.
 - Built using modern front-end technologies such as HTML, CSS.
 # Technologies Used
