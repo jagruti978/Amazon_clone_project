@@ -16,10 +16,15 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 #Ouptut
 ![image](https://github.com/user-attachments/assets/c4ff6429-ded7-44cb-ab27-f7d112ea6b85)
+
 ![image](https://github.com/user-attachments/assets/47a6b189-c01f-4904-b9d9-f3145f43ac14)
+
 ![image](https://github.com/user-attachments/assets/3056b395-03d3-478f-9717-19861aea5221)
+
 ![image](https://github.com/user-attachments/assets/e89957e8-ab27-41f8-adc9-e7380a9d66b9)
+
 ![image](https://github.com/user-attachments/assets/16eb4f2d-bbaa-4dbf-8df5-114672e1aef0)
+
 ![image](https://github.com/user-attachments/assets/fae8865c-a24d-4033-964f-e8c1fdc2943f)
 
 
