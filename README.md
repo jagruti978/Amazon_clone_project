@@ -13,4 +13,5 @@ Amazon Homepage Clone built with Html and CSS. My academic web development Proje
 3. Explore the codebase to learn more about the implementation details
 # Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. I welcome any suggestions or improvements to the code.
+![image](https://github.com/user-attachments/assets/c4ff6429-ded7-44cb-ab27-f7d112ea6b85)
 
